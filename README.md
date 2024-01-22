@@ -10,3 +10,4 @@ To Accomplish this we will perform the following on the data:
 4. Model Training
 5. Tuning
 6. Evaluating the data
+7. Find the best model for making predictions
